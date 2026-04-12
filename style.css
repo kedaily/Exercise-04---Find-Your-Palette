@@ -14,3 +14,4 @@ body {color: #27160d}
 h1 {color: #27160d}
 h2 {color: #27160d}
 h5 {color:#7c5b2e}
+div {text-align: center; width: 200px; height: 100px; background-color: #7c5b2e; color: #27160d; border: 2pt solid black; padding: 100px; margin: 50px;}
